@@ -1,0 +1,16 @@
+body{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    background-color: aliceblue;
+    justify-content: center;
+}
+p{
+    display: inner-flex;
+    margin: auto 20px;
+    font-size: 24px;
+    color: brown;
+    border-radius: 6px;
+    padding: 10px;
+    border: 2px solid lightblue;
+}
